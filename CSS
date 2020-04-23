@@ -1,0 +1,8 @@
+<style>
+.your-wrapper-class {
+	scroll-snap-type: y mandatory;
+}
+.your-section-class {
+	scroll-snap-align: start;
+}
+</style>
